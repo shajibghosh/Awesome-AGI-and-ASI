@@ -1,4 +1,4 @@
-# Awesome AGI & ASI (2020–Present)
+# Awesome AGI and ASI (2020–Present)
 
 A comprehensive, curated collection of resources on **Artificial General Intelligence (AGI)** and **Artificial Superintelligence (ASI)** from **January 2020 to the present**.  
 
