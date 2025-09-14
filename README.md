@@ -167,5 +167,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   note   = {GitHub repository},
   url    = {https://github.com/shajibghosh/Awesome-AGI-and-ASI}
 }
+```
+---
 
+## Release Timeline
 
+> 📌 **Note:** This repository is actively being compiled and will be fully released on **October 1st, 2025**.
