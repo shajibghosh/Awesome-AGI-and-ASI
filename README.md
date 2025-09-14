@@ -138,6 +138,7 @@ We pledge to make participation in this project a harassment-free experience for
 
 ### Enforcement
 Report issues to: **shajibghosh94 [at] gmail [dot] com**
+
 All complaints will be reviewed fairly and confidentially.  
 
 *This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).*  
