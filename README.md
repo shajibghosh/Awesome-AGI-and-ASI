@@ -5,7 +5,7 @@ A comprehensive, curated collection of resources on **Artificial General Intelli
 This repository will cover research papers, books, tools, benchmarks, safety and governance reports, tutorials, and learning materials to provide a structured overview of developments in AGI/ASI.  
 
 🚧 **Status: Under Construction**  
-📅 **Planned Release: October 1st, 2025**
+📅 **Planned Release: November 1st, 2025**
 
 ---
 
@@ -173,4 +173,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Release Timeline
 
-> 📌 **Note:** This repository is actively being compiled and will be fully released on **October 1st, 2025**.
+> 📌 **Note:** This repository is actively being compiled and will be fully released on **November 1st, 2025**.
